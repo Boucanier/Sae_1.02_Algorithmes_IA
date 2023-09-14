@@ -15,6 +15,12 @@ Notre IA est l'[_IA\_SAE.py_](IA/IA_SAE.py). Elle est composée de plusieurs fon
 
 Notre fichier [_main.py_](main.py) permet de simuler une partie entre plusieurs IA. Au bout d'un certain nombre de parties, il affiche le pourcentage de victoires de chaque IA ainsi que leur position moyenne. Ce fichier peut être modifié pour afficher plus d'informations.
 
+## Remarques
+
+Les règles du jeu _Diamants_ sont disponibles [ici](https://iello.fr/wp-content/uploads/2022/07/DIAMANT_regles.pdf).
+
+Notre IA ainsi que d'autres se trouvent dans le dossier [_IA_](IA). Les [IA80](IA/IA80.py), [IA85](IA/IA85.py) et [IA90](IA/IA90.py) sont des IA possédant respectivement 80%, 85% et 90% de chance de rester dans la partie. L'IA [IA\_SAE](IA/IA_SAE.py) est notre IA finale.
+
 ---
 
 Projet réalisé dans le cadre de la SAÉ 1.02 du premier semestre de BUT informatique à l'IUT de Vélizy
