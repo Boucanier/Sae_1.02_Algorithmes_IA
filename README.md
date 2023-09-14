@@ -21,6 +21,13 @@ Les règles du jeu _Diamants_ sont disponibles [ici](https://iello.fr/wp-content
 
 Notre IA ainsi que d'autres se trouvent dans le dossier [_IA_](IA). Les [IA80](IA/IA80.py), [IA85](IA/IA85.py) et [IA90](IA/IA90.py) sont des IA possédant respectivement 80%, 85% et 90% de chance de rester dans la partie. L'IA [IA\_SAE](IA/IA_SAE.py) est notre IA finale.
 
+## Crédits
+
+Projet réalisé par :
+
+- [Jules CHIRON](https://github.com/Boucanier)
+- [Thomas GODINEAU](https://github.com/ThomasGODINEAU)
+
 ---
 
 Projet réalisé dans le cadre de la SAÉ 1.02 du premier semestre de BUT informatique à l'IUT de Vélizy
