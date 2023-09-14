@@ -19,4 +19,4 @@ Notre fichier [_main.py_](main.py) permet de simuler une partie entre plusieurs 
 
 Projet réalisé dans le cadre de la SAÉ 1.02 du premier semestre de BUT informatique à l'IUT de Vélizy
 
-Juin 2023
+Janvier 2023
