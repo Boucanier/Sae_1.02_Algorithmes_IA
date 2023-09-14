@@ -48,7 +48,7 @@ class IA_Diamant:
 
         self.rentre = False
         
-        # print("IA_GODINEAU_CHIRON reçoit match = '" + match + "'")
+        # print("IA_SAE reçoit match = '" + match + "'")
 
     def tri_carte(self, tour):
         '''
@@ -81,7 +81,7 @@ class IA_Diamant:
             str: 'X' ou 'R'
         """
 
-        # print("    IA_GODINEAU_CHIRON reçoit tour = '" + tour + "'")
+        # print("    IA_SAE reçoit tour = '" + tour + "'")
         
         # Si toutes les ia sont rentrées au tour d'AVANT, on rentre
         if self.en_jeu.count(True) == 1:
@@ -240,7 +240,7 @@ class IA_Diamant:
         self.rentre = False
         self.manche_actu += 1
 
-        # print("  IA_GODINEAU_CHIRON reçoit en fin de manche raison = '" + raison + "' et dernier_tour = '" + dernier_tour + "'" )
+        # print("  IA_SAE reçoit en fin de manche raison = '" + raison + "' et dernier_tour = '" + dernier_tour + "'" )
 
 
     def game_over(self, scores : str) -> None:
@@ -249,4 +249,4 @@ class IA_Diamant:
         Args:
             scores (str): descriptif des scores de fin de jeu
         """
-        # print("IA_GODINEAU_CHIRON reçoit en fin de jeu scores = '" + scores +"'")
+        # print("IA_SAE reçoit en fin de jeu scores = '" + scores +"'")
